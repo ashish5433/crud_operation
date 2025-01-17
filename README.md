@@ -14,13 +14,13 @@ JWT_TOKEN: {CREATE A SECRET KEY }
 
 **API ENPOINTS**
 For Creating an User:    
-[http://localhost:3000/api/users](http://localhost:3000/api/users)  
+[http://localhost:{PORT_NUMBER}/api/users](http://localhost:3000/api/users)  
 For getting an User:   
-[http://localhost:3000/api/users/getusers](http://localhost:3000/api/users/getusers)  
+[http://localhost:{PORT_NUMBER}/api/users/getusers](http://localhost:3000/api/users/getusers)  
 For Updating an User:  
-[http://localhost:3000/api/users/updateuser/ID_of_the_User](http://localhost:3000/api/users/updateuser/IDoftheUser)  
+[http://localhost:{PORT_NUMBER}/api/users/updateuser/ID_of_the_User](http://localhost:3000/api/users/updateuser/IDoftheUser)  
 For Deleting the user:  
-[http://localhost:3000/api/users/deleteuser/ID_of_the_User](http://localhost:3000/api/users/deleteuser/IDoftheUser)  
+[http://localhost:{PORT_NUMBER}/api/users/deleteuser/ID_of_the_User](http://localhost:3000/api/users/deleteuser/IDoftheUser)  
 
 
 
